@@ -1,4 +1,4 @@
-# zipfModeling
+# Modeling Developer Expertise with Zipf's law
 - ZipfModeling is an expertise model to identify expert developers based on how they write code. <br />
 ![](https://github.com/ferdorart/ZipfModel/blob/main/EASE_digram.PNG)
 - "Tokenizer", you can tokenize the content of python code into the AST nodes of source code and then collect the syntax patterns <br />
@@ -8,4 +8,15 @@
 - We generate a labeled synthetic dataset by resampling real data. This dataset contains 1200 developers in two categories of "Expert" and "Novice". With this data you can explore the validity of expertise models based on the content of programming code. <br />
 -  "Dataset" contains raw real dataset which is extracted from GitHub repositories. The dataset includes following features:<br />
 . 'commit_ID','Author', 'Authored_Date','email','msg','Commiter','committer_date', 'project_path','Commit_before', 'Commit_after','diff','Added_LOC','Removed_LOC', 'Num_LOC'<br />
-   
+-------------------------------------------------------------------------------------------------------------------------------------------------
+## Citation
+<strong>Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing</strong>
+```
+@article{,
+  title={Assessing developer expertise from the statistical distribution of programming syntax patterns},
+  author={Moradi Dakhel, Arghavan and C. Desmarais, Michel and Khomh, Foutse},
+  Conferance={Evaluation and Assessment in Software Engineering},
+  pages={90--99},
+  year={2021}
+}
+```
