@@ -10,7 +10,7 @@
 . 'commit_ID','Author', 'Authored_Date','email','msg','Commiter','committer_date', 'project_path','Commit_before', 'Commit_after','diff','Added_LOC','Removed_LOC', 'Num_LOC'<br />
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Citation
-<strong>Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing</strong>
+<strong>Assessing developer expertise from the statistical distribution of programming syntax patterns</strong>
 ```
 @article{,
   title={Assessing developer expertise from the statistical distribution of programming syntax patterns},
