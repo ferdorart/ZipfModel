@@ -1,5 +1,6 @@
 # zipfModeling
 - ZipfModeling is an expertise model to identify expert developers based on how they write code. <br />
+https://github.com/ferdorart/ZipfModel/blob/main/EASE_digram.PNG
 - "Tokenizer", you can tokenize the content of python code into the AST nodes of source code and then collect the syntax patterns <br />
 - "ZipfModeling_syndt", shows the probability distribution of alpha in Zipf after fitting on synthatic data.<br />
 - "Zipf_logLikelihood", collect syntax patterns from real projects collected from GitHub and fit the distribution of the syntax patterns for each developer with Zipf's law.<br />
