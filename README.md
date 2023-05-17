@@ -10,7 +10,7 @@
 . 'commit_ID','Author', 'Authored_Date','email','msg','Commiter','committer_date', 'project_path','Commit_before', 'Commit_after','diff','Added_LOC','Removed_LOC', 'Num_LOC'<br />
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Citation
-<strong>Assessing developer expertise from the statistical distribution of programming syntax patterns</strong>
+<a href="https://dl.acm.org/doi/abs/10.1145/3463274.3463343"><strong>Assessing developer expertise from the statistical distribution of programming syntax patterns</strong></a>
 ```
 @article{,
   title={Assessing developer expertise from the statistical distribution of programming syntax patterns},
